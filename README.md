@@ -1,2 +1,0 @@
-# electiveweb
-ElectiveSummary
